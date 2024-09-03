@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dE:/Code/V/homework_2
+valu_8bit
+Z0 !s110 1716815593
+!i10b 1
+!s100 EDhbDVJdVllg^dmHFPGPS1
+IgBjeegIeThX0>BRfcPV@=3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dE:/Code/V/homework_3
+w1716814997
+8E:/Code/V/homework_3/123/alu_8bit.v
+FE:/Code/V/homework_3/123/alu_8bit.v
+L0 9
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1716815593.000000
+!s107 E:/Code/V/homework_3/123/alu_8bit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/Code/V/homework_3/123/alu_8bit.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vtb_alu_8bit
+R0
+!i10b 1
+!s100 IH2`?T[4Y2XX[c09<F@<81
+I5_@E<Mh8OQ`ZhLaiXT2A^2
+R1
+R2
+w1716815577
+8E:/Code/V/homework_3/123/tb_alu_8bit.v
+FE:/Code/V/homework_3/123/tb_alu_8bit.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+!s107 E:/Code/V/homework_3/123/tb_alu_8bit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/Code/V/homework_3/123/tb_alu_8bit.v|
+!i113 1
+R5
+R6

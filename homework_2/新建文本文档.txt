@@ -1,0 +1,4 @@
+wr_en wen
+rd_en ren
+din data_in
+dout data_out

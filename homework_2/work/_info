@@ -1,0 +1,73 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dE:/Code/V/5
+vsync_fifo
+Z0 !s110 1712807864
+!i10b 1
+!s100 G`Y>2QCkd[gTO6][9@A_J1
+IE:6U]^LW_4z6UZmLDo^oD0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dE:/Code/V/homework_2
+w1712807784
+8E:/Code/V/homework_2/Fifo.v
+FE:/Code/V/homework_2/Fifo.v
+L0 9
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1712807864.000000
+!s107 E:/Code/V/homework_2/Fifo.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/Code/V/homework_2/Fifo.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vsync_fifo_tb
+R0
+!i10b 1
+!s100 bU58eea5WdfhHzd6lz6c21
+I@_48mRcTUQi4<Sa[nMbZz0
+R1
+R2
+w1712807856
+Z7 8E:/Code/V/homework_2/Fifo_tb.v
+Z8 FE:/Code/V/homework_2/Fifo_tb.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+Z9 !s107 E:/Code/V/homework_2/Fifo_tb.v|
+Z10 !s90 -reportprogress|300|-work|work|-stats=none|E:/Code/V/homework_2/Fifo_tb.v|
+!i113 1
+R5
+R6
+vtestbench
+!s110 1712806981
+!i10b 1
+!s100 gdJm^eRV5TY9gRf2Wm4162
+I`86<G[WIFALWgGI<Nd3dH2
+R1
+R2
+w1712806784
+R7
+R8
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1712806981.000000
+R9
+R10
+!i113 1
+R5
+R6

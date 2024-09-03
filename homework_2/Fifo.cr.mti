@@ -1,0 +1,6 @@
+E:/Code/V/homework_2/Fifo.v {0 {vlog -work work -stats=none E:/Code/V/homework_2/Fifo.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module SyncFIFO
+** Error: E:/Code/V/homework_2/Fifo.v(42): (vlog-2110) Illegal reference to net "data_out".
+
+} {4.0 5.0} {}}

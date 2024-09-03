@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="synth_1" LaunchPart="xc7vx485tffg1157-1" LaunchTime="1716818357">
+  <File Type="PA-TCL" Name="tb_alu_8bit.tcl"/>
+  <File Type="RDS-PROPCONSTRS" Name="tb_alu_8bit_drc_synth.rpt"/>
+  <File Type="REPORTS-TCL" Name="tb_alu_8bit_reports.tcl"/>
+  <File Type="RDS-RDS" Name="tb_alu_8bit.vds"/>
+  <File Type="RDS-UTIL" Name="tb_alu_8bit_utilization_synth.rpt"/>
+  <File Type="RDS-UTIL-PB" Name="tb_alu_8bit_utilization_synth.pb"/>
+  <File Type="RDS-DCP" Name="tb_alu_8bit.dcp"/>
+  <File Type="VDS-TIMINGSUMMARY" Name="tb_alu_8bit_timing_summary_synth.rpt"/>
+  <File Type="VDS-TIMING-PB" Name="tb_alu_8bit_timing_summary_synth.pb"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1" RelGenDir="$PGENDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/imports/123/alu_8bit.v">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../alu_8bit.v"/>
+        <Attr Name="ImportTime" Val="1716814997"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/123/tb_alu_8bit.v">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../tb_alu_8bit.v"/>
+        <Attr Name="ImportTime" Val="1716815683"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="tb_alu_8bit"/>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1">
+    <Filter Type="Utils"/>
+    <Config>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2021">
+      <Desc>Vivado Synthesis Defaults</Desc>
+    </StratHandle>
+    <Step Id="synth_design">
+      <Option Id="FlattenHierarchy">0</Option>
+      <Option Id="MoreOptsStr"><![CDATA[-mode out_of_context]]></Option>
+    </Step>
+  </Strategy>
+</GenRun>

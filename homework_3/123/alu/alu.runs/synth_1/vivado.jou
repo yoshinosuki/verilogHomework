@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2021.1 (64-bit)
+# SW Build 3247384 on Thu Jun 10 19:36:33 MDT 2021
+# IP Build 3246043 on Fri Jun 11 00:30:35 MDT 2021
+# Start of session at: Mon May 27 21:59:19 2024
+# Process ID: 12784
+# Current directory: E:/Code/V/homework_3/123/alu/alu.runs/synth_1
+# Command line: vivado.exe -log tb_alu_8bit.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source tb_alu_8bit.tcl
+# Log file: E:/Code/V/homework_3/123/alu/alu.runs/synth_1/tb_alu_8bit.vds
+# Journal file: E:/Code/V/homework_3/123/alu/alu.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source tb_alu_8bit.tcl -notrace
